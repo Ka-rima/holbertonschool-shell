@@ -1,2 +1,2 @@
 #!/bin/bash
-grep users /etc/passwd | cut -d:-f /etc/passwd
+grep users /etc/passwd | cut -d:-f 1,6 | sort -nd 
