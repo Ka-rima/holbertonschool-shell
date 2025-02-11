@@ -1,2 +1,2 @@
 #!/bin/bash
-grep users /etc/passwd | sort
+grep users /etc/passwd | cut -d:
