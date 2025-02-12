@@ -1,0 +1,2 @@
+#!/bin/string
+printf "%.2f \n"
