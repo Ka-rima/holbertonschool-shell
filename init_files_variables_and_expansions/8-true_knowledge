@@ -1,0 +1,2 @@
+#!/bin/bash 
+echo "The sum of $TRUEKNOWLEDGE and $128 is $result"
