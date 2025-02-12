@@ -1,2 +1,2 @@
-#!/bin/string
+#!/bin/bash
 printf "%.2f \n"
